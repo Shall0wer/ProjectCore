@@ -1,0 +1,39 @@
+name: Core
+version: '${project.version}'
+main: fr.shall0wer.project.PluginCore
+authors: [ Shall0wer ]
+commands:
+  friends:
+    aliases:
+    - friend
+    - f
+    - amis
+  comètes:
+  étoiles:
+  admingift:
+  gift:
+  help:
+    aliases:
+    - ?
+    - aide
+  lag:
+  grade:
+  prefix:
+  prefixs:
+  discord:
+  whois:
+  mute:
+  unmute:
+  ban:
+  unban:
+  statut:
+  rules:
+  punish:
+    aliases:
+      - ss
+  broadcast:
+    aliases:
+      - bc
+  ro:
+  boutique:
+  mod:
